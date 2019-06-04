@@ -1,4 +1,4 @@
-package nrk_bootdo;
+package cn.ns.code;
 
 public class Test {
 
